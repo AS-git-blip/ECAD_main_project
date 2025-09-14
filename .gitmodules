@@ -1,0 +1,3 @@
+[submodule "ECAD-libs"]
+	path = ECAD-libs
+	url = https://github.com/AS-git-blip/ECAD-libs.git
