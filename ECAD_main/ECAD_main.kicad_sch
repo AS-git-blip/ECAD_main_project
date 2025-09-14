@@ -1,0 +1,49 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e7b7bcd6-914d-4494-bae9-bb77430064ab")
+	(paper "A3")
+	(title_block
+		(company "МГТУ им. Н.Э.Баумана")
+		(comment 2 "Самсонова А. М.")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "gost_landscape.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WC6IO0nAEYqgjFAc9pUwaAq7rGQvf7J+ej28lrFVi+Ra0Qr0XvBpp0PVIKJocju3inLuMxu
+				WJMBZ+8LfABnAHoALNo2GUZx9Wyv+vGO7GqGEQi0h1NBVbQbu4asUlxtNdu0DUOHHXuz3S4LorjC
+				2E01EGgMV8+VUWw3dfNo1moMH81SFXzgYBtVTc4wznZ5FqxD7VTQq7ccP9gGTKJmWIeqoOVcJzCQ
+				DVVL8SfCVhDFDBBgIzTR1VmonOtDBRi2oWoZrJTd7jX9n7Khe3Oye/9Ms1rmYPfHZufeRc3LSf+n
+				jA0dvmaRc3bwZWv+XePfzun8KCGM/7Cfewzne/kzOnz97xpCdtQnfM1OdoRSwyL6ns9/yCEXdTKt
+				OdMw+9FeW47UoQcp1/Kgs+ReeFeQbod89jhy6K+b4b9sl8309ehUweEadu1UTChOpuuy4U1LLpJO
+				lVtSuhJakbPaCV0eintGDej97uhEuhmOcrWX1TbJb5lclmu6pItyMa5v1WZ1wyIHzIIiICx/hlaE
+				zSDtgyDQGGvlWpxSbsstXdJLQQAB1cP21+/uObTaZWza0c22HZYs36ROMpS0m+FjF6MbeD2fZOgw
+				wZ3rg/x/m2kOFM+HkHnw/SDTPLsg89wrZHil5ZLQ0Wmkp4vQlk4KkREFxB1+PPn90ttfe+myyeUD
+				umO5J3flmlwuU5xO7sejFKfRiSWBbahBUahmpCAFSSHDGnGRwBiC1Z0dskgQgjAUw4AcCGIcAhlC
+				HCFEQAwhhBhjREauHS1W9GqoT2ej9oib6AkUZ1xytemsseM0xpmg8F4VpZ0BeQEinRqXR/LHvcXM
+				zxBtuIUaw8HcSNawPE002iKV23H6UV273ntSIAlTA5N1ZdrndCiVe6uBaRiHYYiKq9GgNrTeNTRf
+				NfUJ/32bWh9/57DHw7uQxz4ULHfFeApmWDLvyo3GHRcRbczSKYx08fXGVh6xzSXRvDpB6BApYY8y
+				6sEbrKBGeegRkrjMrCrrLxeLYxp0HswTCskvDBMXTHE/T+ByeqaPP3qdKzND8/1VD3bUDeJn0Y9z
+				gDZPfEvFjAaAJZpbLUtz3kaxhDe3Snk/4OyFwqFNmJyv7iYuCzQrtB3ykyQKiwBJcw2JxNU32g3/
+				kVAxeFgRdQg12uIi1pyRGPpIH4Xa+rlwJouAD+8zrEHs/Mj95yRfSbzxr/d0A4lRg1eZtAqJQBlT
+				3zHGdrqzkPo5zEAHci6R5WaJ7M8aOMeYTH8ylU/JOjqDbeYB3A/SED8iC0uFsZZlGFxjlGVAmFBW
+				Sg295mriH68MGT6sxAPRzPNjscyiXi6CHelA4On6CGhR0TBQg6X1agUnjA2o+EQ8+EMjOt0EE3O1
+				KZXjk96NgCgPyIEYPya3WbCT53yDvYomiSBeq3cTdXyh8ErjMLtLd9lDpdvsZ53W2mh1ArZ1o9W/
+				pn4MvGAJn4RflojuA5iT3WAhYm7x+ywpKbA6SP8AsvhaPKoyXAVabGD5KqtYRIZHh+1qjSosK7Zk
+				WnUXr26KKLGZ9FmofbXdLWEkLIYWnz6CoHAJ1aETYyMLDNADH7/BUkuXmDcZVyKv/jweRknOlknx
+				InFQ+uGQOpYGNF5vgyfg9IZKup03LTR7DEu7ADGKQmGCR30jTPWNMAURYVmFlx3OQiIuT/p0NIV4
+				k5jbGQYYpblIqpu8oZ6A0nlGAufJ/aGmRk8NeaaILFcB|
+			)
+			(checksum "9180C2D8C133E7F089AA5E43F4962E04")
+		)
+	)
+)
