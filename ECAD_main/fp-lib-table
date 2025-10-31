@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ECAD-libs")(type "KiCad")(uri "C:/Users/guzee/OneDrive/Рабочий стол/учеба/магистратура/САПР электронных средств/ECAD_main_project/ECAD-libs/ECAD_lib.pretty")(options "")(descr ""))
+)
