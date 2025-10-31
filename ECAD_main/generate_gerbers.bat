@@ -5,19 +5,17 @@ echo ========================================
 echo    Gerber and Drill File Generator
 echo ========================================
 
-REM -- УКАЖИТЕ ПУТИ К ВАШИМ ФАЙЛАМ ЗДЕСЬ --
-
 REM Путь к kicad-cli.exe
-set KICAD_CLI="C:\Program Files\KiCad\7.0\bin\kicad-cli.exe"
+set KICAD_CLI="C:\Program Files\KiCad\9.0\bin\kicad-cli.exe"
 
 REM Путь к вашему файлу проекта .kicad_prj (или .kicad_pro для старых версий)
-set PROJECT_FILE="C:\MyProjects\University\my_board\my_board.kicad_prj"
+set PROJECT_FILE="C:\Users\guzee\OneDrive\Рабочий стол\учеба\магистратура\САПР электронных средств\ECAD_main_project\ECAD_main\ECAD_main.kicad_prl"
 
 REM Путь к файлу платы .kicad_pcb
-set PCB_FILE="C:\MyProjects\University\my_board\my_board.kicad_pcb"
+set PCB_FILE="C:\Users\guzee\OneDrive\Рабочий стол\учеба\магистратура\САПР электронных средств\ECAD_main_project\ECAD_main\ECAD_main.kicad_pcb"
 
 REM Папка, куда будут сохранены Gerber и Drill файлы
-set OUTPUT_DIR="C:\MyProjects\University\my_board\Gerbers"
+set OUTPUT_DIR="C:\Users\guzee\OneDrive\Рабочий стол\учеба\магистратура\САПР электронных средств\ECAD_main_project\ECAD_main\Gerbers"
 
 REM -- КОНЕЦ НАСТРОЕК --
 
